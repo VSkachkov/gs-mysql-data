@@ -1,8 +1,7 @@
-package railway_code;
+package railway_code.repository;
 
+import railway_code.model.Canton;
 import org.springframework.data.repository.CrudRepository;
-
-import java.util.List;
 
 // This will be AUTO IMPLEMENTED by Spring into a Bean called userRepository
 // CRUD refers Create, Read, Update, Delete

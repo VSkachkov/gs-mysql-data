@@ -1,6 +1,7 @@
-package railway_code;
+package railway_code.repository;
 
 import org.springframework.data.repository.CrudRepository;
+import railway_code.model.Station;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package railway_code;
+package railway_code.model;
 
 import javax.persistence.Entity;
 import javax.persistence.*;
