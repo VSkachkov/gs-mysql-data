@@ -65,7 +65,7 @@ public class MainController {
 //		Long count = stationRepository.count();
 //		stationRepository.findAllByName(stationName);
 		System.err.println(stationName);
-		System.err.println("");
+		System.out.println("");
 
 
 		return stationRepository.findAllByName(stationName);
